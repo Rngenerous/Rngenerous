@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rngenerous
 
 - 📫 How to reach me, 
-  t.me/rngenerous
+  t.me/rngenerous,
   discord - rngenerous 
 
 <!---
